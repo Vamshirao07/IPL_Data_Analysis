@@ -83,6 +83,8 @@ https://github.com/Vamshirao07/IPL_Data_Analysis/blob/main/ipl_matches_data.csv
 
 https://github.com/Vamshirao07/IPL_Data_Analysis/blob/main/ball_by_ball_data.xlsb
 
+https://github.com/Vamshirao07/IPL_Data_Analysis/blob/main/players-data-updated.csv
+
 ## Dashboard Preview
 
 <img width="1226" height="677" alt="IPL ANALYSIS DASHBOARD" src="https://github.com/user-attachments/assets/e504c49a-4be5-4a42-abff-d114fa3d5494" />
