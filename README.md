@@ -82,6 +82,8 @@ Season Selector
 
 ## Dashboard Preview
 
+<img width="1226" height="677" alt="IPL ANALYSIS DASHBOARD" src="https://github.com/user-attachments/assets/e504c49a-4be5-4a42-abff-d114fa3d5494" />
+
 
 ## Skills Demonstrated
 
